@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Screenshot 2024-08-21 174218](https://github.com/user-attachments/assets/e02f89ce-e395-4532-8202-ebd1756020a6)
-<p> My name is Anaya. I like winter, the color aquamarine, and drawing. </p>
+<p> <strong> <em> My name is Anaya. I like winter, the color aquamarine, and drawing. </em> </strong> </p>
 <h1> Have a great time! </h1>
