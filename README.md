@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Screenshot 2024-08-21 174218](https://github.com/user-attachments/assets/e02f89ce-e395-4532-8202-ebd1756020a6)
+![Screenshot 2025-02-17 190813](https://github.com/user-attachments/assets/08fea2cd-28af-4842-af89-d40a69f4873d)
 <p> <strong> <em> My name is Anaya. I like winter, the color aquamarine, and drawing. </em> </strong> </p>
 <h1> Have a great time! </h1>
